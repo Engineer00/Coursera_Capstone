@@ -4,3 +4,5 @@
 ###### "Jupyter_Notebook" is in the "Scripts" subdirectory.
 
 ###### "pandas" and "numpy" libraries has been imported along with the "print" statement.
+
+###### "Business Understaning and the Data sections are added in the scripts"
